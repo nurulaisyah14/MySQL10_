@@ -5,13 +5,13 @@
 |----|---|-----|------|
 |Muhammad Ikhsan Fakhrudin|312210019|TI.22.A.2|Basis Data|
 
-# Studi Kasus: Sub Query
+# Studi Kasus : Sub Query
 
 ## Soal Latihan
 
 ![gambar](screenshot/Tugas%20Latihan.png)
 
-### Jawaban
+## Jawaban
 
 <img src=https://pngimg.com/uploads/google_drive/google_drive_PNG9.png width="110px" >
 
